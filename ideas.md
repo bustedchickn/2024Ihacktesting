@@ -26,3 +26,11 @@ Possible tools
     - Page Usage stats?
 [ ] White/green Noise Generator?
 [ ] Motivational Quote or Joke Generator?
+[ ] Gamer token when amount of projects are turned in get awareded a token.\
+
+
+Languages :
+HTML, CSS, Javascrypt, Json
+
+
+focus on learning API Connections.
